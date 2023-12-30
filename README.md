@@ -46,7 +46,7 @@ The Excel dashboard is located in the "Excel Dashboard" folder.
 How to Use:
 Clone the repository to your local machine using the following command:
 
-git clone https://github.com/Aradata/MY-SQL 
+git clone - https://github.com/Aradata/-AdvanceExcel
 
 Open the desired Excel practice sheet using Microsoft Excel or any compatible spreadsheet software.
 
